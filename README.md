@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" height="40" alt="excel logo" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" alt="excel logo" />
 
   <!-- Machine Learning -->
   <img width="12" />
