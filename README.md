@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Mr.Tejas Gholap and I'm a Data Scientist, from Nasik</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Science<br>🎯 Goals: Master machine learning algorithms and work on real-world data projects<br>🎲 Fun fact: I enjoy solving puzzles and challenges in my free time!</p>
 
 ###
 
