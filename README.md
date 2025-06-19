@@ -36,9 +36,9 @@
   <img width="12" />
   <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="matplotlib logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Seaborn_logo.svg" height="40" alt="seaborn logo" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="power bi logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Power_BI_Logo.svg" height="40" alt="power bi logo" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40" alt="tableau logo" />
   <img width="12" />
@@ -47,11 +47,7 @@
   <!-- Machine Learning -->
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="pytorch logo" />
-
+ 
   <!-- Tools -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
